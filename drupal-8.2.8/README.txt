@@ -1,3 +1,21 @@
+////Set up database
+Database type
+MySQL,MariaDB,Percona Server,or equivalent
+Database name
+drupal828
+Database username
+root
+Database password
+root
+////Configure site
+Site name:drupal828
+Site email address:wanjing.zhang@wlt.com
+
+SITE MAINTENANCE ACCOUNT
+Username:admin
+Password:123456
+
+
 
 CONTENTS OF THIS FILE
 ---------------------
